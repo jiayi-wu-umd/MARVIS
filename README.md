@@ -8,9 +8,6 @@ This repository is the official implementation of the paper:
 [![Watch the video](files/MARVIS_teaser.png)](https://jiayi-wu-leo.github.io/pdf/MARVIS_S3AM_Summit_Poster_Jiayi%20Wu.pdf)
 
 ## Citation
-
-If you find our work useful, please cite:
-
 ```bibtex
 @misc{wu2024marvismotiongeometry,
       title={MARVIS: Motion & Geometry Aware Real and Virtual Image Segmentation}, 
